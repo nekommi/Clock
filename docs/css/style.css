@@ -1,0 +1,27 @@
+
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+}
+
+.wrap {
+  width: 1000px;
+  margin: 150px auto;
+  text-shadow: 5px 2px 5px rgb(131, 131, 131);
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+#day {
+  margin: 10px auto 30px;
+  font-size: .5em;
+}
+
+#time {
+  margin: 10px auto ;
+}
